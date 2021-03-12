@@ -147,7 +147,7 @@ const Header = function SectionHeadStyle({}) {
                             </Grid>
                             <Grid className={classes.styleParagraph}>
                                 <p>
-                                Turn your everyday customer into a loyal one.
+                                Turn your evdasdasdaeryday customer into a loyal one.
                                 <p>It’s never been easier.</p>
                                 </p>
                             </Grid>
